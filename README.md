@@ -1,5 +1,3 @@
-# template-next-tailwind-counter
-
 ## Getting Started
 
 ### Prerequisites
